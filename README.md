@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **mz_atir@esi.dz** **https://www.linkedin.com/in/atir-zinebhibaterrahmane/**
+- 📫 How to reach me **mz_atir@esi.dz**
+-                     **https://www.linkedin.com/in/atir-zinebhibaterrahmane/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
