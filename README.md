@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atir zineb</h1>
 <h3 align="center">A passionate frontend and backend developer , deeply interested in data science,  from Algeria</h3>
 
-- 🔭 I’m currently working on **smart home smart switch using IoT and Arduino**
 
-- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me : 
 *  **mz_atir@esi.dz**
